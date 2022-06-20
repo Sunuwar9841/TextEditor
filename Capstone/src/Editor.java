@@ -3,11 +3,7 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.util.Scanner;
 
-// What is text?
-// What is text editor?
-// WHat is terminal?
-// What is nano?
-// WHat is text editor app?
+
 public class Editor {
 
 	static String fileName = "";
